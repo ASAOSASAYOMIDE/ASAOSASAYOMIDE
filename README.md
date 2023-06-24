@@ -21,11 +21,12 @@ A frontend project for URL shortener
 ## Known Bugs
 
 ## Contact
-* _Email: Samodmukadam2005@yahoo.com_
-* _PhoneNumber/WhatsappNumber: +2348129583518_
-* _Facebook:https://facebook.com/samodmukadam2/_
-* _Twitter: https://twitter.com/Zaddy_03_
-* _Linkedin: https://www.linkedin.com/in/samodmukadam/_
-* _Instagram: https://www.instagram.com/03__zaddy/_
+* _Email: abdulsalamayomideshitta@gmail.com
+* _PhoneNumber/WhatsappNumber: +2349017968062 or 07014495835_
+* _Facebook:https://facebook.com/asao ayomide/_
+* 
+## Known Bugs
+
+_
 
 *_Feel free to customize the sections and add more details specific to your project._
