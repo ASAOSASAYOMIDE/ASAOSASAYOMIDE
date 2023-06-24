@@ -4,7 +4,7 @@ SCISSOR
 ## Description
 A frontend project for URL shortener
 
-#### By (Samod Mukadam)
+#### By (Abdulsalam Ayomide)
 
 ## Technologies Used
 * _HTML_
